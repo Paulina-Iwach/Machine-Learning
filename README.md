@@ -1,5 +1,6 @@
 ## Machine learning problems in Python
 The tasks focused in particular on building neural networks using the Keras library, which included the following:
 - Building and comparison of **Neural Network** (only with dense layers) models to deal with [classification](https://github.com/Paulina-Iwach/Machine-Learning/blob/master/Ex2_Keras_DNN/Assigment%202%20-%20classification%20task.ipynb) and [regression](https://github.com/Paulina-Iwach/Machine-Learning/blob/master/Ex2_Keras_DNN/Assigment%202%20-%20Regression%20task.ipynb) problem.
+- Building a **Dense Neural Network** (DNN) without using ready-to-use libraries and verifying performance on the CIFAR-10 images dataset.[link](https://github.com/Paulina-Iwach/Machine-Learning/blob/master/Ex3_DNN_without_Keras/Assignment%203%20-%20DNN%20by%20myself.ipynb)
 - Construction and comparison of **Convolutional Neural Networks** (CNNs) for image classification from the CIFAR-10 dataset. [link](https://github.com/Paulina-Iwach/Machine-Learning/blob/master/Ex4_Keras_CNN_image_augmentation/Task%204%20-%20CNNs%20with%20Keras.ipynb)
 - Forecasting Netflix's stock prices using the **Long Short-Term Memory** (LSTM) model. [link](https://github.com/Paulina-Iwach/Machine-Learning/blob/master/Ex5_RNN_LSTM/Task%205%20-%20RNN_and_LSTM.ipynb)
